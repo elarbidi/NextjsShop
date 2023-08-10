@@ -1,0 +1,156 @@
+[
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": 19.99,
+      "company": "Company X",
+      "img" : "/img/productA.jpeg",
+      "comments": [
+        {
+          "name": "John",
+          "comment": "This product is great!"
+        },
+        {
+          "name": "Jane",
+          "comment": "I love the quality of this product."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 29.99,
+      "company": "Company Y",
+      "img" : "/img/ProductB.webp",
+      "comments": [
+        {
+          "name": "Sarah",
+          "comment": "Highly recommend this product."
+        },
+        {
+          "name": "Michael",
+          "comment": "The price is a bit high, but the product is worth it."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 14.99,
+      "company": "Company Z",
+      "img" : "/img/ProductC.jpeg",
+      "comments": [
+        {
+          "name": "David",
+          "comment": "Affordable and good quality!"
+        },
+        {
+          "name": "Emily",
+          "comment": "I've bought this product multiple times. Always satisfied."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Product D",
+      "price": 25.50,
+      "company": "Company A",
+      "img" : "/img/productD.webp",
+      "comments": [
+        {
+          "name": "Jessica",
+          "comment": "Nice product, arrived quickly."
+        },
+        {
+          "name": "Matthew",
+          "comment": "Great customer service!"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Product E",
+      "price": 9.99,
+      "company": "Company B",
+      "img" : "/img/productE.webp",
+      "comments": [
+        {
+          "name": "Olivia",
+          "comment": "Good value for the price."
+        },
+        {
+          "name": "William",
+          "comment": "Fast shipping."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Product F",
+      "price": 39.95,
+      "company": "Company C",
+      "img" : "/img/productF.jpeg",
+      "comments": [
+        {
+          "name": "Ava",
+          "comment": "Excellent product, highly recommended."
+        },
+        {
+          "name": "James",
+          "comment": "The packaging was damaged, but the product is intact."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Product G",
+      "price": 17.49,
+      "company": "Company D",
+      "img" : "/img/ProductG.webp",
+      "comments": [
+        {
+          "name": "Sophia",
+          "comment": "I am very pleased with this purchase."
+        },
+        {
+          "name": "Benjamin",
+          "comment": "The product exceeded my expectations."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Product H",
+      "price": 59.99,
+      "company": "Company E",
+      "img" : "/img/ProductH.jpeg",
+      "comments": [
+        {
+          "name": "Isabella",
+          "comment": "The best product I've ever used!"
+        },
+        {
+          "name": "Daniel",
+          "comment": "Worth every penny."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Product I",
+      "price": 12.95,
+      "company": "Company F",
+      "img" : "/img/ProductI.webp",
+      "comments": [
+        {
+          "name": "Mia",
+          "comment": "Fast delivery, excellent quality."
+        },
+        {
+          "name": "Mason",
+          "comment": "I'm very happy with my purchase."
+        }
+      ]
+    }
+  ]
+
